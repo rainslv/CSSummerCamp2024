@@ -170,6 +170,8 @@
 ## 南京理工大学
 
 【报名截止：6.25】[计算机科学与工程学院](https://cs.njust.edu.cn/1f/a8/c1820a335784/page.htm)
+已报
+>计算机科学与工程学院-计算机技术（预推免OK；夏令营需发邮件）
 
 【报名截止：7.2】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)
 
@@ -188,8 +190,12 @@
 【报名截止：6.26】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5850.htm)
 
 【报名截止：6.26】[软件学院招收本科生条件](https://cs.nankai.edu.cn/info/1042/3695.htm) | [软件学院](https://cs.nankai.edu.cn/__local/4/FB/B0/46BD5A8CE01CDB14EA181BFAF12_92455B93_62127.pdf)
+已报
+>软件工程(专硕)
 
 【报名截止：N/A】[计算机学院/网络空间安全学院](https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm)
+已报
+>计算机学院-专业学位硕士：085404计算机技术
 
 ~~【报名截止：6.12】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4101.htm)~~
 
@@ -209,7 +215,9 @@
 
 >[北京理工大学2024年博士研究生专项计划招生简章](https://grd.bit.edu.cn/zsgz/bsyjs/gzzd/7855bde08a0e40ff99fca06a5c2b1b8c.htm)  
 
-【报名截止：6.25 12:00】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/2fa2fa019403455b9f92e96650f87f2b.htm)  
+【报名截止：6.25 12:00】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/2fa2fa019403455b9f92e96650f87f2b.htm)
+已报
+>网安-信息安全与对抗 未完 差最后提交，等计算机
 
 ~~【报名截止：6.21】[集成电路与电子学院](https://mp.weixin.qq.com/s/aHNgeimsI-1qB4d_8vKFJQ)~~
 
@@ -264,6 +272,8 @@
 ## 中山大学
 
 【报名截止：6.25 24:00】[计算机学院](https://cse.sysu.edu.cn/content/7106)
+已报
+>专硕-电子信息
 
 ~~【报名截止：6.24】[人工智能学院](https://sai.sysu.edu.cn/notice/1415979.htm)~~
 
@@ -356,6 +366,7 @@
 【报名截止：6.25】[信息工程研究所](http://www.iie.cas.cn/xsjy2020/zxtz2020/202405/t20240528_7173993.html)
 
 【报名截止：6.28】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202405/t20240515_7162425.html)
+>已填资料（软研所），尚未提交（可以注册多个用户申报多个夏令营）
 
 【报名截止：6.30】[深圳先进技术研究院](https://siat.cas.cn/yjsjy2016/zsjs2016/202405/t20240527_7173055.html)
 
@@ -394,6 +405,8 @@
 【报名截止：N/A】[中科大 MIRA Lab 保研招生简章](https://miralab.ai/admission/admission_2024/)
 
 【报名截止：6.25】[计算机科学夏令营（计算机科学与技术学院）](https://xly.ustc.edu.cn/news.php?newsid=1004)
+已报
+>0854电子信息（专业学位） 0812计算机科学与技术
 
 【报名截止：6.30】[人工智能与数据科学夏令营](https://m.xly.ustc.edu.cn/news.php?newsid=1023)
 
